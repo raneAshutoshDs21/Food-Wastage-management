@@ -1,0 +1,5 @@
+pandas
+numpy
+plotly
+sqlite3
+datetime
